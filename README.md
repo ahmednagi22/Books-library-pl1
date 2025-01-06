@@ -1,1 +1,2 @@
-# Book-library-with-c-
+# Books Library
+Books library written in C. A college assignment.
