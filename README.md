@@ -1,2 +1,2 @@
 # Books Library
-Books library written in C. A college assignment.
+Books library written in C++. A college assignment.
