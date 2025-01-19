@@ -17,4 +17,4 @@ A **Book Management System** implemented in C, allowing users to manage book rec
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ahmednagi22/Books-library-pl1.git
+   git clone https://github.com/ahmednagi22/Book-Management-Console.git
