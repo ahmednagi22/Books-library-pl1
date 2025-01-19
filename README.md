@@ -1,4 +1,4 @@
-# Book Management console
+# Book Management console (college assessment)
 
 A **Book Management System** implemented in C, allowing users to manage book records through various functionalities like adding, deleting, searching, and displaying books. The data is persisted in a file, ensuring that records are saved even after the program terminates.
 
